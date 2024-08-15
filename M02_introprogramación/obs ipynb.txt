@@ -1,0 +1,14 @@
+para poder correr los archivos ipynb en visual code y linux:
+(presionando el boton |>) hay que instalar lo siguiente:
+sudo apt install python3-pip
+
+pip install ipykernel
+
+verificar que instalo bien:
+pip show ipykernel
+
+luego ir a un archivo .ipynb y presionar el boton deberia funcionar...
+
+
+fuente:
+https://stackoverflow.com/questions/64997553/python-requires-ipykernel-to-be-installed
